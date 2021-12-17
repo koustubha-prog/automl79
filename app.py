@@ -197,4 +197,4 @@ if is_for_prediction:
 
 
 st.write('---')  
-st.caption("Ran into a bug or saw something that could be improved on the app? Submit a [Github issue](https://github.com/ruthgn/AutomatEDA/issues).")
+st.caption("Ran into a bug or saw something that could be improved on the app? Submit a [Github issue](https://github.com/ruthgn/AutomatEDA/issues) or [fork the repository](https://github.com/forks/ruthgn/Beer-Recommender) to create a pull request].")
