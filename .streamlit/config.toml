@@ -1,12 +1,4 @@
 [theme]
-
-# primaryColor = "#141b92" #dark-blue
-# backgroundColor = "#d6a260" #gold
-# secondaryBackgroundColor = "#f5f7f3"
-# textColor = "#040405"
-# font = "sans serif"
-
-[theme]
 primaryColor = "#E694FF"
 backgroundColor = "#00172B"
 secondaryBackgroundColor = "#0083B8"
