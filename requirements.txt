@@ -1,0 +1,7 @@
+matplotlib==3.5.0
+numpy==1.19.2
+pandas==0.25.3
+pandas-profiling==2.9.0
+scikit-learn==1.0.1
+streamlit==1.2.0
+streamlit-pandas-profiling==0.1.3
