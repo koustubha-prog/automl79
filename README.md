@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <a target="_blank" href="https://share.streamlit.io/ruthgn/automateda/main/app.py">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" width="100px;" alt="Launch Streamlit Web App" />
+  <strong>Demo:</strong><a target="_blank" href="https://share.streamlit.io/ruthgn/automateda/main/app.py">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" width="250px;" alt="Launch Streamlit Web App" />
   </a>
 </p>
 
