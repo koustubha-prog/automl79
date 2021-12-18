@@ -20,14 +20,6 @@ The app includes the following built-in data sets to demonstrate functionalies:
 * [Bank Marketing Data Set](https://www.kaggle.com/ruthgn/bank-marketing-data-set)
 * [California Housing Data Set](https://www.kaggle.com/camnugent/california-housing-prices)
 
-## Tech Stack
-* Python
-* [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
-* NumPy
-* Pandas
-* Scikit-Learn
-* Streamlit
-
 ## Screenshots
 | ![screen-gif](assets/AutomatEDA-demo-screencast-1.gif) | 
 |:--:| 
@@ -36,6 +28,14 @@ The app includes the following built-in data sets to demonstrate functionalies:
 | ![screen-gif](assets/AutomatEDA-demo-screencast-2.gif) | 
 |:--:| 
 | *Generating Variable Importance Rankings* |
+
+## Tech Stack
+* Python
+* [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
+* NumPy
+* Pandas
+* Scikit-Learn
+* Streamlit
 
 ## Running The App Locally
 Open a command prompt in your chosen project directory. Create a virtual environment with conda, then activate it.
