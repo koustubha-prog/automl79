@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)</strong>
+    <strong>Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)(#)</strong>
 </p>
 
 ## About the app
