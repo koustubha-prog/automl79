@@ -1,8 +1,6 @@
 # AutomatEDA📊
 
-## Demo
-Launch the web app:
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)
+Demo:[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)
 
 ## About the app
 This app is an automated exploratory data analysis (EDA) tool for tabular data. 
