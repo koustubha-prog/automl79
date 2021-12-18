@@ -12,7 +12,7 @@
 
 
 ## About The App
-This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with *one click*—all the following variable information will be generated in an interactive HTML report (if relevant for the column type):
+This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with *one click*—all the following variable information will be generated in an interactive HTML report (if relevant for the variable/column type):
 * **Type inference** detecting the types of columns in the file (dataframe)
 * **Essentials**: data type, unique values, missing values
 * **Quantile statistics**: minimum value, Q1, median, Q3, maximum, range, interquartile range
