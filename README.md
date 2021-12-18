@@ -1,9 +1,10 @@
 # AutomatEDA📊
 
-Demo:[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)
+### Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)
 
-## About the app
 This app is an automated exploratory data analysis (EDA) tool for tabular data. 
+
 ### Example Datasets
 The app includes the following built-in data sets to demonstrate functionalies:
 * [Automobile Data Set](https://www.kaggle.com/toramky/automobile-dataset)
