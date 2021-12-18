@@ -29,11 +29,13 @@ The app includes the following built-in data sets to demonstrate functionalies:
 * Streamlit
 
 ## Screenshots
-![screen-gif](assets/AutomatEDA-demo-screencast-1.gif)
-*One-Click Exploratory Data Analysis*
+| ![screen-gif](assets/AutomatEDA-demo-screencast-1.gif) | 
+|:--:| 
+| *One-Click Exploratory Data Analysis* |
 
-![screen-gif](assets/AutomatEDA-demo-screencast-2.gif)
-*Generating Variable Importance Rankings*
+| ![screen-gif](assets/AutomatEDA-demo-screencast-2.gif) | 
+|:--:| 
+| *Generating Variable Importance Rankings* |
 
 ## Running The App Locally
 Open a command prompt in your chosen project directory. Create a virtual environment with conda, then activate it.
