@@ -131,8 +131,7 @@ if is_for_prediction:
         total_nulls = data[select_target_var].isnull().sum().sum()
 
         # Select variables to exclude (optional)
-        removed_features = st.sidebar.multiselect("(Optional) Select variables to exclude when predicting target:", data.drop(select_target_var, axis=1).columns)
-        st.sidebar.markdown("\n")
+        removed_features = st.sidebar.multiselect("[Optional] Select variables to exclude when predicting target (e.g., irrelevant variables, leaky variables, etc.):", data.drop(select_target_var, axis=1).columns)
         if removed_features is not None:
             features = cleaned_data.drop(select_target_var, axis=1).drop(removed_features, axis=1)
         else:
