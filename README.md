@@ -10,7 +10,8 @@
   </a>
 </p>
 
-## About the app
+
+## About The App
 This app is an automated exploratory data analysis (EDA) tool for tabular data. It also allows you to quickly locate variables with the most potential for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
 
 ### Example Datasets
@@ -27,7 +28,7 @@ The app includes the following built-in data sets to demonstrate functionalies:
 * Scikit-Learn
 * Streamlit
 
-## Running the app locally
+## Running The App Locally
 Open a command prompt in your chosen project directory. Create a virtual environment with conda, then activate it.
 ```
 conda create -n myenv python=3.8.12
