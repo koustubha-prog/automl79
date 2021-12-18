@@ -31,10 +31,11 @@ The app includes the following built-in data sets to demonstrate functionalies:
 
 ## Tech Stack
 * Python
-* [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
 * NumPy
-* Pandas
-* Scikit-Learn
+* pandas
+* Matplotlib
+* [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
+* scikit-learn
 * Streamlit
 
 ## Running The App Locally
