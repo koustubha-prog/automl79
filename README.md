@@ -30,6 +30,7 @@ The app includes the following built-in data sets to demonstrate functionalies:
 
 ## Screenshots
 ![screen-gif](assets/AutomatEDA-demo-screencast-1.gif)
+
 ![screen-gif](assets/AutomatEDA-demo-screencast-2.gif)
 
 ## Running The App Locally
