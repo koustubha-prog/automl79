@@ -1,9 +1,15 @@
-# AutomatEDA📊
+# 
 
-### Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)
+<h1 align="center">
+    AutomatEDA📊
+</h1>
 
-This app is an automated exploratory data analysis (EDA) tool for tabular data. 
+<p align="center">
+    <strong>Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruthgn/automateda/main/app.py)</strong>
+</p>
+
+## About the app
+This app is an automated exploratory data analysis (EDA) tool for tabular data. It also allows you to quickly locate variables with the most potential for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
 
 ### Example Datasets
 The app includes the following built-in data sets to demonstrate functionalies:
