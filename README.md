@@ -12,7 +12,19 @@
 
 
 ## About The App
-This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with *one click*. This app also allows you to quickly locate variables with the most potential for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
+This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with *one click*—all the following variable information will be generated in an interactive HTML report (if relevant for the column type):
+* **Type inference** detecting the types of columns in the file (dataframe)
+* **Essentials**: data type, unique values, missing values
+* **Quantile statistics**: minimum value, Q1, median, Q3, maximum, range, interquartile range
+* **Descriptive statistics**: mean, mode, standard deviation, sum, median absolute deviation, coefficient of variation, kurtosis, skewness
+* **Most frequent values**
+* **Histogram**
+* **Correlations** highlighting of highly correlated variables, Spearman, Pearson and Kendall matrices
+* **Missing values** matrix, count, heatmap and dendrogram of missing values
+* **Text analysis** to learn about categories (Uppercase, Space), scripts (Latin, Cyrillic) and blocks (ASCII) of text data.
+* **File analysis** to extract file sizes, creation dates and dimensions
+
+Additionally, this app also allows you to quickly **locate variables with the most potential** for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
 
 ### Example Datasets
 The app includes the following built-in data sets to demonstrate functionalies:
