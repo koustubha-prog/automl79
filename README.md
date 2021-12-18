@@ -12,7 +12,7 @@
 
 
 ## About The App
-This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with one-click. This app also allows you to quickly locate variables with the most potential for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
+This app is an automated exploratory data analysis (EDA) tool for tabular data. Simply upload your CSV file and explore your data with *one click*. This app also allows you to quickly locate variables with the most potential for prediction tasks using [mutual information](https://www.kaggle.com/ryanholbrook/mutual-information).
 
 ### Example Datasets
 The app includes the following built-in data sets to demonstrate functionalies:
