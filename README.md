@@ -1,8 +1,12 @@
 # 
 
 <h1 align="center">
-    AutomatEDA📊
+    AutomatEDA
 </h1>
+
+<p align="center">
+    <strong>📊&nbsp; An automated exploratory data analysis tool ✨</strong>
+</p>
 
 <p align="center">
   <a target="_blank" href="https://share.streamlit.io/ruthgn/automateda/main/app.py">
