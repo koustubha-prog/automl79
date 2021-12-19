@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>📊&nbsp; An automated exploratory data analysis tool ✨</strong>
+    <i>📊&nbsp; An automated exploratory data analysis tool ✨</i>
 </p>
 
 <p align="center">
