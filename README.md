@@ -39,11 +39,11 @@ The app includes the following built-in data sets to demonstrate functionalies:
 ## Screenshots
 | ![screen-gif](assets/AutomatEDA-demo-screencast-1.gif) | 
 |:--:| 
-| *One-Click Exploratory Data Analysis* |
+| *One-click exploratory data analysis* |
 
 | ![screen-gif](assets/AutomatEDA-demo-screencast-2.gif) | 
 |:--:| 
-| *Generating Variable Importance Rankings* |
+| *Generating variable importance rankings* |
 
 ## Tech Stack
 * Python
